@@ -41,10 +41,10 @@ pip install -r requirements.txt
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ```
-cd data-analyst-dicoding/dashboard
+Proyek-Analisis-Data-Dicoding/dashboard
 streamlit run dashboard.py
 ```
-Access the dashboard in your web browser at `http://localhost:8501`.
+**Access the dashboard in your web browser at `http://localhost:8501`.****
 
 ## Data Sources
-The project uses E-Commerce Public Dataset from [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
+Proyek ini menggunakan e-Commerce Public Dataset dari [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
