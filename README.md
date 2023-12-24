@@ -1,7 +1,7 @@
-# Analisis Data E-Commerce Public Menggunakan Phyton- Dicoding
-![E-Commerce Data Dashboard](dashboard.gif)
+# Analisis Data Bike Sharing Menggunakan Phyton- Dicoding
+![Bike Sharing Data Dashboard](dashboard.gif)
 
-[E-Commerce Data Dashboard Streamlit App](https://e-commerce-data-analyst.streamlit.app/)
+[Bike Sharing Data Dashboard Streamlit App]**(https://e-commerce-data-analyst.streamlit.app/)**
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,7 +11,7 @@
 - [Data Sources](#data-sources)
 
 ## Overview
-Proyek ini merupakan data analisis dan visualisasi data yang berfokus pada E-commerce public. Mencakup Data Wrangling,Exploratory Data Analysis, Data Visualization dan Pengembangan Dashboard. Proyek ini bertujuan untuk mengananalisis data penjualan dan barang yang banyak dibeli maupun yang paling sedikit di beli di e-commerce.
+Proyek ini merupakan data analisis dan visualisasi data yang berfokus pada Bike Sharing. Mencakup Data Wrangling,Exploratory Data Analysis, Data Visualization dan Pengembangan Dashboard. Proyek ini bertujuan untuk memberi gambaran tentang bagaimana suhu memengaruhi jumlah sepeda yang dipinjam dan memberi gambaran tentang bagaimana suhu memengaruhi jumlah sepeda yang dipinjam.
 
 ## Project Structure
 - `dashboard/`: This directory contains dashboard.py which is used to create dashboards of data analysis results.
@@ -26,7 +26,7 @@ git clone https://github.com/ShaviraDhilla/Proyek-Analisis-Data-Dicoding.git
 ```
 2. Go to the project directory
 ```
-cd data-analyst-dicoding
+cd Proyek-Analisis-Data-Dicoding
 ```
 3. Install the required Python packages by running:
 ```
@@ -47,4 +47,4 @@ streamlit run dashboard.py
 **Access the dashboard in your web browser at `http://localhost:8501`.****
 
 ## Data Sources
-Proyek ini menggunakan e-Commerce Public Dataset dari [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
+Proyek ini menggunakan Bike Sharing Dataset dari [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
